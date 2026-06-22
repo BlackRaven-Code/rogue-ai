@@ -1,2 +1,3 @@
 body = 15
 reflex = 12
+xp = 100
