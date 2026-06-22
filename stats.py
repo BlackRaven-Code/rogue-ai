@@ -1,2 +1,2 @@
-body = 10
-reflex = 10
+body = 15
+reflex = 12
