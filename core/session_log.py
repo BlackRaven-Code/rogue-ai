@@ -64,6 +64,3 @@ Add manual notes here if needed.
         file.write(content)
 
     print(f"Session log created: {log_file}")
-
-
-create_session_log()

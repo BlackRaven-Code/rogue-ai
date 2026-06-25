@@ -2,11 +2,25 @@ BLACK RAVEN OS SESSION LOG
 ==========================
 
 Timestamp:
-2026-06-24 19:42:28
+2026-06-24 21:04:33
 
 GIT STATUS
 ----------
-Command timed out: git status --short
+D combat.py
+ D console.py
+ D hud.py
+ D inventory.py
+ M logs/session_2026-06-24.txt
+ M main.py
+ D missions.py
+ M requirements.txt
+ D save.py
+ D session_log.py
+ D stats.py
+?? animations/__init__.py
+?? command_menu.py
+?? core/
+?? game/
 
 CHANGED FILES
 -------------
